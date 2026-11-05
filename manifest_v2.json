@@ -28,49 +28,103 @@
   ],
   "downloads": {
     "xmrw5": {
-      "version": "1.0.5",
-      "file_name": "downloads/monopoly-watch-1.0.5.rpk",
-      "versionCode": 6
+      "version": "1.0.6",
+      "file_name": "downloads/monopoly-watch-1.0.6.rpk",
+      "versionCode": 7,
+      "updatelogs": [
+        {
+          "version": "1.0.6",
+          "content": "修复之前版本因按钮塌陷导致缺失的bug"
+        }
+      ]
     },
     "xmrw5xring": {
-      "version": "1.0.5",
-      "file_name": "downloads/monopoly-watch-1.0.5.rpk",
-      "versionCode": 6
+      "version": "1.0.6",
+      "file_name": "downloads/monopoly-watch-1.0.6.rpk",
+      "versionCode": 7,
+      "updatelogs": [
+        {
+          "version": "1.0.6",
+          "content": "修复之前版本因按钮塌陷导致缺失的bug"
+        }
+      ]
     },
     "xmrw6": {
-      "version": "1.0.5",
-      "file_name": "downloads/monopoly-watch-1.0.5.rpk",
-      "versionCode": 6
+      "version": "1.0.6",
+      "file_name": "downloads/monopoly-watch-1.0.6.rpk",
+      "versionCode": 7,
+      "updatelogs": [
+        {
+          "version": "1.0.6",
+          "content": "修复之前版本因按钮塌陷导致缺失的bug"
+        }
+      ]
     },
     "xmb9p": {
-      "version": "1.0.5",
-      "file_name": "downloads/monopoly-watch-1.0.5.rpk",
-      "versionCode": 6
+      "version": "1.0.6",
+      "file_name": "downloads/monopoly-watch-1.0.6.rpk",
+      "versionCode": 7,
+      "updatelogs": [
+        {
+          "version": "1.0.6",
+          "content": "修复之前版本因按钮塌陷导致缺失的bug"
+        }
+      ]
     },
     "xmws441": {
-      "version": "1.0.5",
-      "file_name": "downloads/monopoly-watch-1.0.5.rpk",
-      "versionCode": 6
+      "version": "1.0.6",
+      "file_name": "downloads/monopoly-watch-1.0.6.rpk",
+      "versionCode": 7,
+      "updatelogs": [
+        {
+          "version": "1.0.6",
+          "content": "修复之前版本因按钮塌陷导致缺失的bug"
+        }
+      ]
     },
     "xmws3": {
-      "version": "1.0.5",
-      "file_name": "downloads/monopoly-watch-1.0.5.rpk",
-      "versionCode": 6
+      "version": "1.0.6",
+      "file_name": "downloads/monopoly-watch-1.0.6.rpk",
+      "versionCode": 7,
+      "updatelogs": [
+        {
+          "version": "1.0.6",
+          "content": "修复之前版本因按钮塌陷导致缺失的bug"
+        }
+      ]
     },
     "xmws4xring": {
-      "version": "1.0.5",
-      "file_name": "downloads/monopoly-watch-1.0.5.rpk",
-      "versionCode": 6
+      "version": "1.0.6",
+      "file_name": "downloads/monopoly-watch-1.0.6.rpk",
+      "versionCode": 7,
+      "updatelogs": [
+        {
+          "version": "1.0.6",
+          "content": "修复之前版本因按钮塌陷导致缺失的bug"
+        }
+      ]
     },
     "xmb10p": {
-      "version": "1.0.5",
-      "file_name": "downloads/monopoly-watch-1.0.5.rpk",
-      "versionCode": 6
+      "version": "1.0.6",
+      "file_name": "downloads/monopoly-watch-1.0.6.rpk",
+      "versionCode": 7,
+      "updatelogs": [
+        {
+          "version": "1.0.6",
+          "content": "修复之前版本因按钮塌陷导致缺失的bug"
+        }
+      ]
     },
     "xmws4": {
-      "version": "1.0.5",
-      "file_name": "downloads/monopoly-watch-1.0.5.rpk",
-      "versionCode": 6
+      "version": "1.0.6",
+      "file_name": "downloads/monopoly-watch-1.0.6.rpk",
+      "versionCode": 7,
+      "updatelogs": [
+        {
+          "version": "1.0.6",
+          "content": "修复之前版本因按钮塌陷导致缺失的bug"
+        }
+      ]
     }
   },
   "ext": {}
